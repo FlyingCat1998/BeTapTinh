@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(105, 130, 150, 1);
+}
+
+.blue-label {
+	color: blue;
+	font-weight: bold;
+}
